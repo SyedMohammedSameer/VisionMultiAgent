@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain
+openai
+opencv-python
+scikit-learn
+ollama
